@@ -1,2 +1,2 @@
-# alpine_git_ssh_bash
+# alpine-git-ssh-bash
 Alpine image with bash, git, less and openssh
